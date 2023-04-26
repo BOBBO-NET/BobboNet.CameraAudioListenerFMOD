@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using FMODUnity;
 
-namespace BobboNet.CameraAudioListener.FMOD
+namespace BobboNet
 {
     public class CameraAudioListenerFMOD : ICameraAudioListener
     {

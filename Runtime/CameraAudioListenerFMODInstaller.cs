@@ -1,7 +1,7 @@
 using UnityEngine;
 using Zenject;
 
-namespace BobboNet.CameraAudioListener.FMOD
+namespace BobboNet
 {
     [CreateAssetMenu(fileName = "CameraAudioListenerFMODInstaller", menuName = "Installers/CameraAudioListenerFMODInstaller")]
     public class CameraAudioListenerFMODInstaller : ScriptableObjectInstaller<CameraAudioListenerFMODInstaller>
